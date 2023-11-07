@@ -5,21 +5,7 @@ metadata:
   tags: 
   name: repo_manifest
 spec:
-  # /pgdev/repo-manifest.yaml
-  # /adr
-  # /diagrams
-  # /docs
-  # required script, application,documentation,library, model, x_as_code
-  # DEFAULT - null (or based  on template that created repo)
-  # REQUIRED - yes
   repo_type: documentation
-​
-  # experiment,development,production, archive, na ( for documentation etc)
-  # DEFAULT - null (or based  on template that created repo)
-  # REQUIRED - yes
   repo_phase: na
-​
-  # na,local,private,internal,external,archived
-  # DEFAULT - null (or based  on template that created repo)
-  # REQUIRED - yes
   repo_access: na
+  github_pat: ZkCsULRxKTVm63ZVYcz%F3J&o!YFG9rgcazoyVH5
